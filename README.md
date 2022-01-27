@@ -6,9 +6,7 @@
 
 2. Transfer Learning
 
-<p align="center">
-![](./imgs/image1.png)
-</p>
+![](./imgs/image1.png){:.aligncenter}
 
 - Inductive transfer learning
 - Transductive transfer learning
