@@ -5,9 +5,9 @@
 - TensorFlow Hub
 
 2. Transfer Learning
-
-![](./imgs/image1.png)
-
+<p align="center">
+  ![](./imgs/image1.png)
+</p>
 - Inductive transfer learning
 - Transductive transfer learning
 - Unsupervised transfer learning
