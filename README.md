@@ -1,15 +1,15 @@
 # AI_Winter_School
 대한기계학회 2022동계 인공지능 강습
 
-* Pre-trained Models
-	* TensorFlow Hub
+1. Pre-trained Models
+	1) TensorFlow Hub
 
-* Transfer Learning
+2) Transfer Learning
 
 <p align="center">
 	<img src="./imgs/image1.png" />
 </p>
 
-	* Inductive transfer learning
-- Transductive transfer learning
-- Unsupervised transfer learning
+	1) Inductive transfer learning: same domains but different source/target __tasks__
+	2) Transductive transfer learning
+	3) Unsupervised transfer learning
