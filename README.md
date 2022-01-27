@@ -7,7 +7,7 @@
 2. Transfer Learning
 
 <p align="center">
-	<img src="./images/image1.png" />
+	<img src="./imgs/image1.png" />
 </p>
 
 - Inductive transfer learning
