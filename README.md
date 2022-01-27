@@ -26,6 +26,32 @@
 		- Feature representation transfer
 		- Relational knowledge transfer
 
+3. Self Supervised Learning
 
+	Generate the labels from unlabeled data according to itself -> train on this unsupervised data in a supervised manner
 
+	1. Image Augmentation
+
+		- 'Unsupervised learning of visual representation by solving jigsaw puzzles', ECCV, 2016
+		- RotNet 'Unsupervised representation learning by predicting image rotation', ICLR, 2018
+
+	2. Contrastive Learning
+
+		- SimCLR 'Simple framework for contrastive learning of visual representations', 2020
+
+4. Explainable AI (XAI)
+
+	1. Class Activation Map (CAM)
+
+	2. Grad-CAM
+
+	3. Layer-wise Relevance Propagation (LRP)
+
+5. Graph Neural Network (GNN)
+
+	- NetworkX, PyTorch Geometric(PyG), Deep Graph Library (DGL), Graph Nets, Spektral
+
+6. Physics Informed Neural Network (PINN)
+
+	- DeepXDE
 
