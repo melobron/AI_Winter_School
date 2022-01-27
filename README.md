@@ -10,6 +10,6 @@
 	<img src="./imgs/image1.png" />
 </p>
 
-	1) Inductive transfer learning: same domains but different source/target __tasks__
+	1) Inductive transfer learning: same domains but different source/target <u>tasks</u>
 	2) Transductive transfer learning
 	3) Unsupervised transfer learning
