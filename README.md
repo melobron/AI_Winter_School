@@ -1,11 +1,11 @@
 # AI_Winter_School
 대한기계학회 2022동계 인공지능 강습
 
-1. Pre-trained Models
+**1. Pre-trained Models**
 
 	- TensorFlow Hub
 
-2. Transfer Learning
+**2. Transfer Learning**
 
 	1. Categories
 
@@ -26,7 +26,7 @@
 		- Feature representation transfer
 		- Relational knowledge transfer
 
-3. Self Supervised Learning
+**3. Self Supervised Learning**
 
 	Generate the labels from unlabeled data according to itself -> train on this unsupervised data in a supervised manner
 
@@ -39,7 +39,7 @@
 
 		- SimCLR 'Simple framework for contrastive learning of visual representations', 2020
 
-4. Explainable AI (XAI)
+**4. Explainable AI (XAI)**
 
 	1. Class Activation Map (CAM)
 
@@ -47,11 +47,11 @@
 
 	3. Layer-wise Relevance Propagation (LRP)
 
-5. Graph Neural Network (GNN)
+**5. Graph Neural Network (GNN)**
 
 	- NetworkX, PyTorch Geometric(PyG), Deep Graph Library (DGL), Graph Nets, Spektral
 
-6. Physics Informed Neural Network (PINN)
+**6. Physics Informed Neural Network (PINN)**
 
 	- DeepXDE
 
